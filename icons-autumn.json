@@ -81,6 +81,8 @@
     "bmp": "_image",
     "ico": "_image",
     "svg": "_image",
+    "yml": "_image",
+    "rake": "_image",
     "node.js": "_javascript_test",
     "browser.js": "_javascript_test",
     "md": "_markdown",
@@ -90,7 +92,21 @@
     "git": "_git",
     "snap": "_javascript_test",
     "woff": "_font",
-    "woff2": "_font"
+    "woff2": "_font",
+    "-spec.rb": "_font",
+		"spec.rb": "_font",
+		"_spec.rb": "_font",
+    "rb": "_font",
+    "-controller.rb": "_image",
+    "py": "_javascript_test",
+    "-dashboard.rb": "_javascript_test",
+    "-helper.rb": "_javascript_test",
+    "-job.rb": "_thrift",
+    "-mailer.rb": "_thrift",
+    "-policy.rb": "_thrift",
+    "-view_model.rb": "_thrift",
+    "erb": "_thrift",
+    "jbuilder": "_thrift"
   },
   "fileNames": {
     "license": "_license",
@@ -154,6 +170,7 @@
     "typescript": "_typescript",
     "css": "_css",
     "html": "_html",
-    "json": "_json"
+    "json": "_json",
+    "ruby": "_html"
   }
 }

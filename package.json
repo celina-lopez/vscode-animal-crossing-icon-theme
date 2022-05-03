@@ -1,36 +1,25 @@
 {
-    "name": "vscode-stardew-icon-theme",
-    "displayName": "Stardew Icon Theme",
-    "description": "Icons from the game Stardew Valley",
-    "version": "0.0.7",
-    "publisher": "klyap",
+    "name": "vscode-animal-crossing-icon-theme",
+    "displayName": "Animal Crossing Icon Theme",
+    "description": "Icons from the game Animal Crossing",
+    "version": "0.0.1",
+    "publisher": "celina-lopez",
     "engines": {
         "vscode": "^1.20.0"
     },
     "contributes": {
         "iconThemes": [
             {
-                "id": "vscode-stardew-icon-theme",
-                "label": "Stardew Icon Theme",
-                "path": "./icons.json"
-            },
-            {
-                "id": "vscode-stardew-icon-theme-autumn",
-                "label": "Stardew Icon Theme - Autumn",
+                "id": "vscode-animal-crossing-icon-theme",
+                "label": "Animal Crossing Icon Theme",
                 "path": "./icons-autumn.json"
-            },
-            {
-                "id": "vscode-stardew-icon-theme-winter",
-                "label": "Stardew Icon Theme - Winter",
-                "path": "./icons-winter.json"
             }
-
         ]
     },
     "icon": "icons/Spangle.png",
     "repository": {
 		"type": "git",
-		"url": "https://github.com/klyap/vscode-stardew-icon-theme.git"
+		"url": "https://github.com/celina-lopez/vscode-animal-crossing-icon-theme.git"
 	},
     "categories": [
         "Themes"
@@ -38,14 +27,14 @@
 	"keywords": [
 		"icons",
         "theme",
-        "pixel",
+        "kawaii",
         "icon",
         "cute",
         "game",
-        "stardew",
-        "valley",
+        "animal",
+        "animal crossing",
         "cozy",
-        "cat",
+        "crossing",
         "farm"
     ],
 	"license": "MIT"
