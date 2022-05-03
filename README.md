@@ -5,8 +5,6 @@ Currently for common front-end web development file types
 
 <img width="165" alt="Screen Shot 2020-08-31 at 8 26 01 PM" src="https://user-images.githubusercontent.com/7905522/91792254-f5063500-ebc9-11ea-9baa-560540a92613.png">
 
-<img width="209" alt="Screen Shot 2020-10-02 at 6 08 57 PM" src="https://user-images.githubusercontent.com/7905522/94979891-6e9b8680-04da-11eb-8bd6-5ff0a63ad09f.png">
-
 
 change
 ### Download at https://marketplace.visualstudio.com/items?itemName=klyap.vscode-stardew-icon-theme
