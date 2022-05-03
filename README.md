@@ -1,0 +1,1 @@
+# vscode-animal-crossing-icon-theme
