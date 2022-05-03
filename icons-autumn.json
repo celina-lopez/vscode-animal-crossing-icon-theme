@@ -1,73 +1,73 @@
 {
   "iconDefinitions": {
     "_file": {
-      "iconPath": "icons/autumn/Pumpkin.png"
+      "iconPath": "icons/acorn.png"
     },
     "_css": {
-      "iconPath": "icons/autumn/Chanterelle.png"
+      "iconPath": "icons/apple.png"
     },
     "_html": {
-      "iconPath": "icons/Red_Mushroom.png"
+      "iconPath": "icons/bag.png"
     },
     "_javascript": {
-      "iconPath": "icons/autumn/Pumpkin.png"
+      "iconPath": "icons/bell bag small.png"
     },
     "_javascript_test": {
-      "iconPath": "icons/Cat.png"
+      "iconPath": "icons/bell voucher.png"
     },
     "_json": {
-      "iconPath": "icons/Sunflower.png"
+      "iconPath": "icons/bell.png"
     },
     "_lock": {
-      "iconPath": "icons/Key.png"
+      "iconPath": "icons/black rose.png"
     },
     "_eslint": {
-      "iconPath": "icons/autumn/Common_Mushroom.png"
+      "iconPath": "icons/bush.png"
     },
     "_prettier": {
-      "iconPath": "icons/autumn/Purple_Mushroom.png"
+      "iconPath": "icons/cedar sapling.png"
     },
     "_git": {
-      "iconPath": "icons/autumn/Corn.png"
+      "iconPath": "icons/coffee.png"
     },
     "_log": {
-      "iconPath": "icons/Wood.png"
+      "iconPath": "icons/diy pack.png"
     },
     "_image": {
-      "iconPath": "icons/autumn/Fall_Seeds.png"
+      "iconPath": "icons/file_type_diy_recipe.png"
     },
     "_markdown": {
-      "iconPath": "icons/Book.png"
+      "iconPath": "icons/fossil.png"
     },
     "_babel": {
-      "iconPath": "icons/Scroll.png"
+      "iconPath": "icons/gyroid.png"
     },
     "_license": {
-      "iconPath": "icons/Scroll.png"
+      "iconPath": "icons/identified fossil.png"
     },
     "_package": {
-      "iconPath": "icons/autumn/Autumns_Bounty.png"
+      "iconPath": "icons/net.png"
     },
     "_graphql": {
-      "iconPath": "icons/autumn/Cranberries.png"
+      "iconPath": "icons/nook miles ticket.png"
     },
     "_cerberus": {
-      "iconPath": "icons/Dog_3.png"
+      "iconPath": "icons/orange.png"
     },
     "_jest": {
-      "iconPath": "icons/autumn/Hazelnut.png"
+      "iconPath": "icons/peach.png"
     },
     "_apollo": {
-      "iconPath": "icons/autumn/Wheat.png"
+      "iconPath": "icons/sapling.png"
     },
     "_bazel": {
-      "iconPath": "icons/autumn/Beet.png"
+      "iconPath": "icons/shovel.png"
     },
     "_fusion": {
-      "iconPath": "icons/autumn/Fairy_Rose.png"
+      "iconPath": "icons/turnip.png"
     },
     "_font": {
-      "iconPath": "icons/autumn/Blackberry.png"
+      "iconPath": "icons/wand.png"
     }
   },
   "file": "_file",
