@@ -2,7 +2,7 @@
     "name": "vscode-animal-crossing-icon-theme",
     "displayName": "Animal Crossing Icon Theme",
     "description": "Icons from the game Animal Crossing",
-    "version": "0.0.1",
+    "version": "0.0.6",
     "publisher": "celina-lopez",
     "engines": {
         "vscode": "^1.20.0"

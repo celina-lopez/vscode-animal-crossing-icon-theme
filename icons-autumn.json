@@ -1,77 +1,194 @@
 {
   "iconDefinitions": {
     "_file": {
-      "iconPath": "icons/acorn.png"
+      "iconPath": "icons/furniture.png"
     },
     "_css": {
       "iconPath": "icons/apple.png"
     },
     "_html": {
-      "iconPath": "icons/bag.png"
+      "iconPath": "icons/yellow mum.png"
     },
     "_javascript": {
-      "iconPath": "icons/bell bag small.png"
+      "iconPath": "icons/star fragment.png"
     },
     "_javascript_test": {
-      "iconPath": "icons/bell voucher.png"
+      "iconPath": "icons/yellow pansy.png"
     },
     "_json": {
-      "iconPath": "icons/bell.png"
+      "iconPath": "icons/axe.png"
     },
     "_lock": {
-      "iconPath": "icons/black rose.png"
+      "iconPath": "icons/pitfall.png"
     },
     "_eslint": {
-      "iconPath": "icons/bush.png"
+      "iconPath": "icons/purple mum.png"
     },
     "_prettier": {
-      "iconPath": "icons/cedar sapling.png"
+      "iconPath": "icons/purple pansy.png"
     },
     "_git": {
-      "iconPath": "icons/coffee.png"
+      "iconPath": "icons/rusted part.png"
     },
     "_log": {
-      "iconPath": "icons/diy pack.png"
+      "iconPath": "icons/black lily.png"
     },
     "_image": {
-      "iconPath": "icons/file_type_diy_recipe.png"
+      "iconPath": "icons/lily of the valley.png"
     },
     "_markdown": {
-      "iconPath": "icons/fossil.png"
+      "iconPath": "icons/orange hyacinth.png"
     },
     "_babel": {
-      "iconPath": "icons/gyroid.png"
+      "iconPath": "icons/pink windflower.png"
     },
     "_license": {
       "iconPath": "icons/identified fossil.png"
     },
     "_package": {
-      "iconPath": "icons/net.png"
+      "iconPath": "icons/package.png"
     },
     "_graphql": {
-      "iconPath": "icons/nook miles ticket.png"
+      "iconPath": "icons/white hyacinth.png"
     },
     "_cerberus": {
-      "iconPath": "icons/orange.png"
+      "iconPath": "icons/yellow cosmos.png"
     },
     "_jest": {
-      "iconPath": "icons/peach.png"
+      "iconPath": "icons/red cosmos.png"
     },
     "_apollo": {
-      "iconPath": "icons/sapling.png"
+      "iconPath": "icons/red windflower.png"
     },
     "_bazel": {
-      "iconPath": "icons/shovel.png"
+      "iconPath": "icons/blue windflower.png"
     },
     "_fusion": {
-      "iconPath": "icons/turnip.png"
+      "iconPath": "icons/blue rose.png"
     },
     "_font": {
-      "iconPath": "icons/wand.png"
+      "iconPath": "icons/pink tulip.png"
+    },
+    "_controllers": {
+      "iconPath": "icons/message bottle.png"
+    },
+    "_api": {
+      "iconPath": "icons/net.png"
+    },
+    "_rb": {
+      "iconPath": "icons/file_type_diy_recipe.png"
+    },
+    "_py": {
+      "iconPath": "icons/pear.png"
+    },
+    "_erb": {
+      "iconPath": "icons/green mum.png"
+    },
+    "_jbuilder": {
+      "iconPath": "icons/construction helmet.png"
+    },
+    "_yml": {
+      "iconPath": "icons/cherry.png"
+    },
+    "_rake": {
+      "iconPath": "icons/identified fossil.png"
+    },
+    "_dashboards": {
+      "iconPath": "icons/fossil.png"
+    },
+    "_helpers": {
+      "iconPath": "icons/medicine.png"
+    },
+    "_jobs": {
+      "iconPath": "icons/shovel.png"
+    },
+    "_mailers": {
+      "iconPath": "icons/mailbox.png"
+    },
+    "_models": {
+      "iconPath": "icons/peach.png"
+    },
+    "_services": {
+      "iconPath": "icons/pink mum.png"
+    },
+    "_view_models": {
+      "iconPath": "icons/bell bag small.png"
+    },
+    "_policies": {
+      "iconPath": "icons/bell.png"
+    },
+    "_environments_development": {
+      "iconPath": "icons/pink mum.png"
+    },
+    "_environments_production": {
+      "iconPath": "icons/purple hyacinth.png"
+    },
+    "_environments_test": {
+      "iconPath": "icons/black rose.png"
+    },
+    "_initializers": {
+      "iconPath": "icons/package.png"
+    },
+    "_locales": {
+      "iconPath": "icons/coffee.png"
+    },
+    "_db": {
+      "iconPath": "icons/cedar sapling.png"
+    },
+    "_migrate": {
+      "iconPath": "icons/bamboo shoot.png"
+    },
+    "_admin": {
+      "iconPath": "icons/gold rose.png"
+    },
+    "_routes": {
+      "iconPath": "icons/nook miles ticket.png"
+    },
+    "_factories": {
+      "iconPath": "icons/gyroid.png"
+    },
+    "_tasks": {
+      "iconPath": "icons/weeds.png"
+    },
+    "_requests": {
+      "iconPath": "icons/turnip.png"
+    },
+    "_dockerfile": {
+      "iconPath": "icons/communicator.png"
+    },
+    "_gemfile": {
+      "iconPath": "icons/paper bag.png"
+    },
+    "_readme": {
+      "iconPath": "icons/red present.png"
     }
   },
   "file": "_file",
   "fileExtensions": {
+    "factories/rb": "_factories",
+    "tasks/rake": "_tasks",
+    "requests/rb": "_requests",
+    "admin/rb": "_admin",
+    "rb": "_rb",
+    "py": "_py",
+    "erb": "_erb",
+    "jbuilder": "_jbuilder",
+    "yml": "_yml",
+    "rake": "_rake",
+    "controllers/rb": "_controllers",
+    "api/rb": "_api",
+    "dashboards/rb": "_dashboards",
+    "helpers/rb": "_helpers",
+    "jobs/rb": "_jobs",
+    "mailers/rb": "_mailers",
+    "models/rb": "_models",
+    "services/rb": "_services",
+    "view_models/rb": "_view_models",
+    "policies/rb": "_policies",
+    "initializers/rb": "_initializers",
+    "locales/yml": "_locales",
+    "db/rb": "_db",
+    "migrate/rb": "_migrate",
     "js": "_javascript",
     "jsx": "_javascript",
     "jpeg": "_image",
@@ -81,8 +198,6 @@
     "bmp": "_image",
     "ico": "_image",
     "svg": "_image",
-    "yml": "_image",
-    "rake": "_image",
     "node.js": "_javascript_test",
     "browser.js": "_javascript_test",
     "md": "_markdown",
@@ -92,23 +207,17 @@
     "git": "_git",
     "snap": "_javascript_test",
     "woff": "_font",
-    "woff2": "_font",
-    "-spec.rb": "_font",
-		"spec.rb": "_font",
-		"_spec.rb": "_font",
-    "rb": "_font",
-    "-controller.rb": "_image",
-    "py": "_javascript_test",
-    "-dashboard.rb": "_javascript_test",
-    "-helper.rb": "_javascript_test",
-    "-job.rb": "_thrift",
-    "-mailer.rb": "_thrift",
-    "-policy.rb": "_thrift",
-    "-view_model.rb": "_thrift",
-    "erb": "_thrift",
-    "jbuilder": "_thrift"
+    "woff2": "_font"
   },
   "fileNames": {
+    "routes.rb": "_routes",
+    "Gemfile.lock": "_gemfile",
+    "Gemfile": "_gemfile",
+    "dockerfile": "_dockerfile",
+    "README.md": "_readme",
+    "environments/development.rb": "_environments_development",
+    "environments/production.rb": "_environments_production",
+    "environments/test.rb": "_environments_test",
     "license": "_license",
     "licence": "_license",
     "license.md": "_license",
