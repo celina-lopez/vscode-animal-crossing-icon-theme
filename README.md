@@ -1,14 +1,14 @@
-# VSCode Animal Crossing Icon Theme
+# VSCode Animal Crossing Icon Theme For Ruby on Rails
 
 A Animal Crossing themed product icon pack!
 Currently for common front-end web development file types
 
-<img width="165" alt="Screen Shot 2020-08-31 at 8 26 01 PM" src="https://user-images.githubusercontent.com/7905522/91792254-f5063500-ebc9-11ea-9baa-560540a92613.png">
+![Screen Shot 2022-05-04 at 1 11 50 AM](https://user-images.githubusercontent.com/57647158/166646597-1e9fa28e-8e56-4bd7-b649-8e6168c1e2ce.png)
 
 
-change
-### Download at https://marketplace.visualstudio.com/items?itemName=klyap.vscode-stardew-icon-theme
-<img width="739" alt="Screen Shot 2020-10-02 at 4 14 12 PM" src="https://user-images.githubusercontent.com/7905522/94976903-52dcb400-04cb-11eb-8d84-04c2094ea725.png">
+### Download at https://marketplace.visualstudio.com/items?itemName=celina-lopez.vscode-animal-crossing-icon-theme
+![Screen Shot 2022-05-04 at 1 26 38 AM](https://user-images.githubusercontent.com/57647158/166647006-553bd1d2-a2f4-43b2-acc7-602da4fea047.png)
+
 
 ## Development
 
@@ -28,10 +28,4 @@ Update the version number in package.json and run:
 Run this command to generate a VSIX file:
  ```vsce package```
 To load this VSIX extension into your VS Code IDE, replacing the file name with the generated one:
-```code --install-extension vscode-stardew-icon-theme-0.0.3.vsix```
-
-## Resources
-
-Icons from https://stardewvalleywiki.com/Stardew_Valley_Wiki
-
-
+```code --install-extension vscode-animal-crossing-icon-theme-0.0.7.vsix```
