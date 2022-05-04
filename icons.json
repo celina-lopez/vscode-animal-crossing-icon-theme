@@ -161,10 +161,38 @@
     },
     "_readme": {
       "iconPath": "icons/red present.png"
+    },
+    "_rakefile": {
+      "iconPath": "icons/pink lily.png"
+    },
+    "_gemfile_lock": {
+      "iconPath": "icons/wasp nest.png"
+    },
+    "_ruby_version": {
+      "iconPath": "icons/wand.png"
+    },
+    "_rspec": {
+      "iconPath": "icons/pink hyacinth.png"
+    },
+    "_irbrc": {
+      "iconPath": "icons/snowflake.png"
+    },
+    "_irb_history": {
+      "iconPath": "icons/watering can.png"
+    },
+    "_gitattributes": {
+      "iconPath": "icons/tree branch.png"
+    },
+    "_env": {
+      "iconPath": "icons/purple rose.png"
+    },
+    "_utils": {
+      "iconPath": "icons/wood.png",
     }
   },
   "file": "_file",
   "fileExtensions": {
+    "utils/js": "_utils",
     "factories/rb": "_factories",
     "tasks/rake": "_tasks",
     "requests/rb": "_requests",
@@ -210,8 +238,15 @@
     "woff2": "_font"
   },
   "fileNames": {
+    "rakefile": "_rakefile",
+    ".ruby-version": "_ruby_version",
+    ".rspec": "_rspec",
+    ".irbrc": "_irbrc",
+    ".irb_history": "_irb_history",
+    ".gitattributes": "_gitattributes",
+    ".env": "_env",
     "routes.rb": "_routes",
-    "Gemfile.lock": "_gemfile",
+    "Gemfile.lock": "_gemfile_lock",
     "Gemfile": "_gemfile",
     "dockerfile": "_dockerfile",
     "README.md": "_readme",

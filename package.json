@@ -1,8 +1,8 @@
 {
     "name": "vscode-animal-crossing-icon-theme",
-    "displayName": "Animal Crossing Icon Theme",
-    "description": "Icons from the game Animal Crossing",
-    "version": "0.0.6",
+    "displayName": "Animal Crossing Icon Theme For Ruby on Rails",
+    "description": "Icons from the game Animal Crossing for your Ruby on Rails app",
+    "version": "0.0.7",
     "publisher": "celina-lopez",
     "engines": {
         "vscode": "^1.20.0"
@@ -12,7 +12,7 @@
             {
                 "id": "vscode-animal-crossing-icon-theme",
                 "label": "Animal Crossing Icon Theme",
-                "path": "./icons-autumn.json"
+                "path": "./icons.json"
             }
         ]
     },
