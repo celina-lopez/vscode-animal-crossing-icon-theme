@@ -188,10 +188,44 @@
     },
     "_utils": {
       "iconPath": "icons/wood.png"
+    },
+    "_workflows": {
+      "iconPath": "icons/wood.png"
+    },
+    "_channels": {
+      "iconPath": "icons/orange.png"
+    },
+    "_application_cable": {
+      "iconPath": "icons/sand dollar.png"
+    },
+    "_validators": {
+      "iconPath": "icons/slingshot.png"
+    },
+    "_dockerignore": {
+      "iconPath": "icons/white pansy.png"
+    },
+    "_keep": {
+      "iconPath": "icons/fishing rod.png"
+    },
+    "_schema": {
+      "iconPath": "icons/coconut tree.png"
+    },
+    "_seeds": {
+      "iconPath": "icons/coconut.png"
+    },
+    "_storage": {
+      "iconPath": "icons/bag.png"
+    },
+    "_application": {
+      "iconPath": "icons/bell voucher.png"
     }
   },
   "file": "_file",
   "fileExtensions": {
+    "validators/rb": "_validators",
+    "application_cable/rb": "_application_cable",
+    "channels/rb": "_channels",
+    "workflows/yml": "_workflows",
     "utils/js": "_utils",
     "factories/rb": "_factories",
     "tasks/rake": "_tasks",
@@ -238,6 +272,8 @@
     "woff2": "_font"
   },
   "fileNames": {
+    ".keep": "_keep",
+    ".dockerignore": "_dockerignore",
     "rakefile": "_rakefile",
     ".ruby-version": "_ruby_version",
     ".rspec": "_rspec",
@@ -306,7 +342,11 @@
     "jest.integration.config.js": "_jest",
     "apollo.config.js": "_apollo",
     ".gitignore": "_git",
-    ".graphqlconfig": "_graphql"
+    ".graphqlconfig": "_graphql",
+    "schema.rb": "_schema",
+    "seeds.rb": "_seeds",
+    "storage.yml": "_storage",
+    "application.rb": "_application"
   },
   "languageIds": {
     "git": "_git",
