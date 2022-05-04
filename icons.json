@@ -218,10 +218,36 @@
     },
     "_application": {
       "iconPath": "icons/bell voucher.png"
+    },
+    "_scss": {
+      "iconPath": "icons/yellow lily.png"
+    },
+    "_database": {
+      "iconPath": "icons/umbrella.png"
+    },
+    "_credentials": {
+      "iconPath": "icons/fishing rod.png"
+    },
+    "_secrets": {
+      "iconPath": "icons/axe.png"
+    },
+    "_enviornment": {
+      "iconPath": "icons/pink rose.png"
+    },
+    "_png": {
+      "iconPath": "icons/white mum.png"
+    },
+    "_ico": {
+      "iconPath": "icons/blue pansy.png"
+    },
+    "_js": {
+      "iconPath": "icons/star fragment aquarius.png"
     }
   },
   "file": "_file",
   "fileExtensions": {
+    "enc": "_credentials",
+    "scss": "_scss",
     "validators/rb": "_validators",
     "application_cable/rb": "_application_cable",
     "channels/rb": "_channels",
@@ -251,14 +277,14 @@
     "locales/yml": "_locales",
     "db/rb": "_db",
     "migrate/rb": "_migrate",
-    "js": "_javascript",
+    "js": "_js",
     "jsx": "_javascript",
     "jpeg": "_image",
     "jpg": "_image",
     "gif": "_image",
-    "png": "_image",
+    "png": "_png",
     "bmp": "_image",
-    "ico": "_image",
+    "ico": "_ico",
     "svg": "_image",
     "node.js": "_javascript_test",
     "browser.js": "_javascript_test",
@@ -272,6 +298,9 @@
     "woff2": "_font"
   },
   "fileNames": {
+    "database.yml": "_database",
+    "secrets.yml": "_secrets",
+    "environment.rb": "_enviornment",
     ".keep": "_keep",
     ".dockerignore": "_dockerignore",
     "rakefile": "_rakefile",

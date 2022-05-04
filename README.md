@@ -28,4 +28,4 @@ Update the version number in package.json and run:
 Run this command to generate a VSIX file:
  ```vsce package```
 To load this VSIX extension into your VS Code IDE, replacing the file name with the generated one:
-```code --install-extension vscode-animal-crossing-icon-theme-0.0.7.vsix```
+```code --install-extension vscode-animal-crossing-icon-theme-0.0.9.vsix```
