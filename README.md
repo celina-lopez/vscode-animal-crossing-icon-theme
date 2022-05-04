@@ -1,7 +1,7 @@
 # VSCode Animal Crossing Icon Theme For Ruby on Rails
 
-A Animal Crossing themed product icon pack!
-Currently for common front-end web development file types
+An Animal Crossing themed product icon pack for Ruby on Rails.
+Supports files typically found in a generated ruby app.
 
 ![Screen Shot 2022-05-04 at 1 11 50 AM](https://user-images.githubusercontent.com/57647158/166646597-1e9fa28e-8e56-4bd7-b649-8e6168c1e2ce.png)
 
